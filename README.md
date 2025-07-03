@@ -25,8 +25,8 @@ Este proyecto consiste en una API REST construida con **Node.js**, **Express** y
 
 ### 1. Clonar el repositorio 
 ```bash
-https://github.com/sil-graci/armando_proyecto.git
-cd armando_proyecto
+https://github.com/sil-graci/proyecto_final.git
+cd proyecto_final
 ```
 
 ### 2. Instalar dependencias
